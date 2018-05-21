@@ -1,0 +1,5 @@
+.list {
+  overflow: hidden;
+  overflow-y: scroll;
+  max-height: 500px;
+}
